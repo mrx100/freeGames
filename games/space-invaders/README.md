@@ -2,6 +2,8 @@
 
 ![Space Invaders preview](assets/preview.svg)
 
+![Animated Space Invaders preview](assets/preview.gif)
+
 Space Invaders is a free, single-file arcade shooter. Move your ship, clear increasingly dangerous alien waves, collect power-ups, and survive long enough to face the mothership.
 
 ## Credits
@@ -12,6 +14,7 @@ This game was made by **Qwen3.6-35B**.
 
 - [Launch the game](https://mrx100.github.io/freeGames/games/space-invaders/)
 - [Watch the video preview](assets/preview.mp4)
+- [View the animated GIF](assets/preview.gif)
 
 The online version is hosted with GitHub Pages. To run your own downloaded copy, open `index.html` directly in a modern browser. The game has no build step, external dependencies, or installation requirements.
 

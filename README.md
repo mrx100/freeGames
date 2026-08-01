@@ -20,5 +20,6 @@ Classic arcade action with colorful enemy waves, power-ups, boss battles, synthe
 - [Play Space Invaders](https://mrx100.github.io/freeGames/games/space-invaders/)
 - [Game description and controls](games/space-invaders/README.md)
 - [Watch the video preview](games/space-invaders/assets/preview.mp4)
+- [View the animated GIF](games/space-invaders/assets/preview.gif)
 
 Open any game in a modern web browser. No installation or paid subscription is required. Source files remain available in the repository for downloading.
