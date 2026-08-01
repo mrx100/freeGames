@@ -6,10 +6,10 @@ Space Invaders is a free, single-file arcade shooter. Move your ship, clear incr
 
 ## Play
 
-- [Launch the game](index.html)
+- [Launch the game](https://mrx100.github.io/freeGames/games/space-invaders/)
 - [Watch the video preview](assets/preview.mp4)
 
-Open `index.html` directly in a modern browser. The game has no build step, external dependencies, or installation requirements.
+The online version is hosted with GitHub Pages. To run your own downloaded copy, open `index.html` directly in a modern browser. The game has no build step, external dependencies, or installation requirements.
 
 ## Controls
 
