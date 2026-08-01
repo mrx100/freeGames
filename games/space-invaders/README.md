@@ -4,6 +4,10 @@
 
 Space Invaders is a free, single-file arcade shooter. Move your ship, clear increasingly dangerous alien waves, collect power-ups, and survive long enough to face the mothership.
 
+## Credits
+
+This game was made by **Qwen3.6-35B**.
+
 ## Play
 
 - [Launch the game](https://mrx100.github.io/freeGames/games/space-invaders/)
